@@ -18,3 +18,5 @@ This project analyzes over 100,000 historical housing market records (2010–201
 * **The Gentrification Effect:** Isolated highly influential real estate markets using Cook's Distance, proving that high-luxury, high-leverage neighborhoods disproportionately skew median rent pricing upwards.
 <img width="1821" height="850" alt="image" src="https://github.com/user-attachments/assets/507ee535-a028-472c-8687-1f86a509ceab" />
 <img width="1844" height="696" alt="image" src="https://github.com/user-attachments/assets/9fbc6930-362a-458a-a99b-6f1b0f05a81d" />
+<img width="1531" height="788" alt="image" src="https://github.com/user-attachments/assets/b1c92ff1-9481-4692-bb27-b9fe2a27f066" />
+<img width="1531" height="788" alt="image" src="https://github.com/user-attachments/assets/d4b65486-d4f4-479f-a84a-6f4a260f1566" />
