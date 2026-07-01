@@ -1,7 +1,7 @@
 # Macroeconomic Rent Pricing Analysis
 
 **Objective**
-This project analyzes over 100,000 historical housing market records (2010–2018) to quantify the macroeconomic factors driving rent prices. Designed to identify historical impacts on stable markets, this model provides actionable, data-driven insights for affordability policy and interest rate forecasting.
+This project cleans 2 million data points, removing duplicates, NA values, and unnecessary columns, and analyzes over 100,000 historical housing market records (2010–2018) to quantify the macroeconomic factors driving rent prices. Designed to identify historical impacts on stable markets, this model provides actionable, data-driven insights for affordability policy and interest rate forecasting.
 
 **Methodology & Tech Stack**
 * **Language & Tools:** R, `ggplot2`, `corrplot`
